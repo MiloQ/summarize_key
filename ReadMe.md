@@ -28,9 +28,14 @@ GPT-3.5-turbol: 4k的窗口长度，1000个句子就5w token爆长度，
 
 使用100个句子生成的答案，时间为1.65s左右
 
-第一次
+第一次询问      
+
+ 
 财经新闻：Wall Street Bears Claw Back Into the Black、Carlyle Looks Toward Commercial Aerospace、Oil and Economy Cloud Stocks' Outlook、Money Funds Fell in Latest Week\n2. 石油行业新闻：Iraq Halts Oil Exports from Main Southern Pipeline、Oil prices soar to all-time record, posing new menace to US economy、Oil and Economy Cloud Stocks' Outlook、No Need for OPEC to Pump More-Iran Gov\n3. 科技新闻：Oracle Sales Data Seen Being Released、Sun's Looking Glass Provides 3D View、Charley's Force Took Experts by Surprise、NASA Chief: 'Let's Go Save the Hubble'\n4. 环境科学新闻：Invasive Purple Weed May Meet Its Match、Ants Form Supercolony Spanning 60 Miles、Rescuers Free Beached Whale in Brazil、Earth is Rare, New Study Suggests
-第二次
+
+
+第二次询问
+
 经济类新闻 (Economic News)\n2. 科技类新闻 (Technology News)\n3. 财经类新闻 (Financial News)\n4. 环境类新闻 (Environmental News)'
 
 
